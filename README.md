@@ -1,1 +1,5 @@
-# vacio
+# Paradigma lógico
+
+Consigna:
+
+Nombre:
